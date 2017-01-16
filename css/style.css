@@ -1,0 +1,56 @@
+.header {
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    display: inline-block;
+    
+}
+.head-left {
+    display: inline-block;
+    width: 20%;
+}
+.head-left img {
+    margin: 20px;  
+}
+.head-menubar {
+    display: inline-block;
+    width: 60%;
+}
+.head-menubar ul{
+    display: inline-block;
+    list-style-type: none;
+    margin: 15px;
+    padding: 0;
+    overflow: hidden;
+  
+}
+.head-menubar ul li{
+    float: left;    
+}
+.head-menubar li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px;16px;
+}
+.head-menubar li :hover {
+     background-color: #b3b3b3;
+}
+.head-rigth {
+     display: inline-block;
+     width: 10%;
+}
+.head-right a img{
+    display: inline-block;
+}
+.main-center {
+    display: inline-block;
+}
+
+.slider a img{
+    width: 100%;
+}
+.slider ul li img {
+    
+}
